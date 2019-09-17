@@ -1,0 +1,1 @@
+Basic Online Shop with Rails 6
